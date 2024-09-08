@@ -1,0 +1,16 @@
+{
+    "posts": [
+      {
+        "title": "Understanding JavaScript Closures",
+        "content": "JavaScript closures are a fundamental concept that every JavaScript developer should understand..."
+      },
+      {
+        "title": "A Guide to Modern CSS Layouts",
+        "content": "CSS Grid and Flexbox are powerful layout systems available in CSS. This guide will help you understand how to use them..."
+      },
+      {
+        "title": "Introduction to Node.js",
+        "content": "Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine. It allows you to build scalable network applications..."
+      }
+    ]
+  }

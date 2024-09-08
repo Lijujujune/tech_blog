@@ -1,0 +1,19 @@
+{
+  "comments": [
+    {
+      "id": 1,
+      "postId": 1,
+      "content": "Great post!"
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "content": "I learned a lot from this article."
+    },
+    {
+      "id": 3,
+      "postId": 2,
+      "content": "Thanks for sharing!"
+    }
+  ]
+}
